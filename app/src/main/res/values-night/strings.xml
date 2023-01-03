@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EnterName">Please enter your name</string>
+    <string name="SayHello">Say Hello</string>
+    <string name="Header">The Greeting App</string>
+</resources>
